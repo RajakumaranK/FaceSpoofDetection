@@ -1,4 +1,6 @@
 Flask
 numpy
 Pillow
+opencv-python
 werkzeug
+gunicorn
